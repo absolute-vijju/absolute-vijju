@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=absolute-vijju&theme=highcontrast&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=absolute-vijju&theme=highcontrast&show_icons=true)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absolute-vijju&layout=compact)
 
 <!--
 **absolute-vijju/absolute-vijju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
