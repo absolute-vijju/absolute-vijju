@@ -6,17 +6,19 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[<img align="left" alt="linktree" width="100px" src="https://logodownload.org/wp-content/uploads/2019/09/linktree-logo.png" />][linktree]
 
-[website]: https://developer-vijay.blogspot.com/
+<!-- [website]: https://developer-vijay.blogspot.com/
 [twitter]: https://twitter.com/absolute_vijju
 [youtube]: https://www.youtube.com/channel/UCPrwSNjV2tSYCId8_0sIRTA
 [instagram]: https://instagram.com/absolute_vijju
-[linkedin]: https://www.linkedin.com/in/vijay-koshti-55363216b
+[linkedin]: https://www.linkedin.com/in/vijay-koshti-55363216b -->
+[linktree]: https://linktr.ee/absolute_vijju
 
 <!--
 **absolute-vijju/absolute-vijju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
