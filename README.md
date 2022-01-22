@@ -1,4 +1,6 @@
-### Hi there, I'm Vijay Koshti 👋
+<a href="#"><img width="100%" height="auto" src="code.gif" height="120px"/></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vijay</h1>
+<h2 align="center">I'm a passionate Android Developer from India.</h2></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=absolute-vijju&theme=highcontrast&show_icons=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absolute-vijju&layout=compact)
