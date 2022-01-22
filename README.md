@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="100%" src="code.gif"/>
-<h1 align="start">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vijay Koshti</h1>
-<h2 align="start">I'm a passionate Android Developer from India.</h2></p>
+<h2 align="start">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vijay Koshti</h2>
+<h3 align="start">a passionate Android Developer from India.</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=absolute-vijju&theme=highcontrast&show_icons=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absolute-vijju&layout=compact)
 
 
-### Connect with me:
+### 🙋‍♂️ Connect with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
