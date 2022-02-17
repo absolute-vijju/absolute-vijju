@@ -22,6 +22,8 @@
 [linkedin]: https://www.linkedin.com/in/vijay-koshti-55363216b -->
 [linktree]: https://linktr.ee/absolute_vijju
 
+<br><br>![](https://komarev.com/ghpvc/?username=absolute-vijju&color=green)
+  
 <!--
 **absolute-vijju/absolute-vijju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
