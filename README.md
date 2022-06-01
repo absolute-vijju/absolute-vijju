@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="100%" src="code.gif"/>
-<h2 align="start">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vijay Koshti</h2>
+<h2 align="start">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Vijay Koshti</h2>
 <h3 align="start">a passionate Android Developer from India.</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=absolute-vijju&theme=highcontrast&show_icons=true)<br>
